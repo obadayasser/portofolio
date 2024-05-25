@@ -243,7 +243,7 @@ let myProjects = [
     id: 4,
     title: "Spiro Spates",
     discription: "Spiro Spates-Shop for sale ",
-    link: "https://obadayasser.github.io/spiro-spates2/",
+    link: "https://obadayasser.github.io/spiro-spates/",
   },
   {
     id: 5,
