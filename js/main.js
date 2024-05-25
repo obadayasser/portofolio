@@ -221,11 +221,11 @@ let typeEffect = new Typed(".type", {
 // ----------------- Projects -------------------------
 let projects = document.querySelector(".project-box");
 let myProjects = [
-  {
-    id: 1,
-    title: "Restaurant",
-    discription: "This is Restaurant , Buy Restaurant",
-    link: "https://obadayasser.github.io/restourant1/",
+    {
+    id: 7,
+    title: "Shop-company",
+    discription: "This is Shop project , to lang",
+    link: "https://obadayasser.github.io/Nour-Store/",
   },
   {
     id: 2,
@@ -250,6 +250,12 @@ let myProjects = [
     title: "Planets",
     discription: "This is animatin",
     link: "https://obadayasser.github.io/plan/",
+  },
+    {
+    id: 1,
+    title: "Restaurant",
+    discription: "This is Restaurant , Buy Restaurant",
+    link: "https://obadayasser.github.io/restourant1/",
   },
   {
     id: 6,
